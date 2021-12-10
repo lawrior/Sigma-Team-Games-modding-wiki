@@ -74,14 +74,18 @@ You can export the sprites as single images by right clicking on the vid file na
 Works with AS2, ZS2, Alien Shooter 2: Reloaded, Alien Shooter: Revisited, Alien Shooter 2: Conscription, Alien Shooter: TD
 
 ### Required files:
-* VidViewer starter.bat
+
+* VidViewer starter.bat https://github.com/lawrior/Sigma-Team-Games-modding-wiki/blob/main/VidViewer%20starter.bat
 * Pseudo3D.fx
 * Pseudo3Dnew.fx
-* VidViewer.exe.
+* VidViewer.exe. 908MB: https://drive.google.com/file/d/1GtZnMwKeZphNtOOyPlQ4V73h-oL3fBsw/view
+
+All-in-one:
+https://drive.google.com/drive/folders/1vT6TWWB-OARKDqqe9FCpTMcPlJo29loK
 
 ***Pseudo3D.fx, Pseudo3Dnew.fx comes with every game, can be found in Vid folder.
 VidViewer.exe is provided by Alex Greenberg.
-VidViewer starter.bat is provided by lawrior.***
+VidViewer starter.bat is provided by lawrior.*** 
 
 
 ***You can use either 908 MB vidviewer or the 2020MB vidviewer.***
@@ -89,7 +93,7 @@ VidViewer starter.bat is provided by lawrior.***
 ***Expect some crashes when vidviewer cant load the vid files.***
 
 ## Steps:
-* Download the files. VidViewer 908MB: https://drive.google.com/file/d/1GtZnMwKeZphNtOOyPlQ4V73h-oL3fBsw/view
+* Download the required files. 
 * If you choose 908 mb VidViewer.exe, right click on it, click Properties, go to the Compatibility tab and Under Settings click on Reduced color mode and set it to 8-bit, click Apply. This will prevent the sprites showing up in a weird color.
 * Copy these files into the same folder as the vid files, because in the batch file (a k a  VidVIewer start.bat) the route is set that way.
 * There are two methods of launching the vidviewer:
