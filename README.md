@@ -70,6 +70,7 @@ You can export the sprites as single images by right clicking on the vid file na
 ### Big thank you to Apeirogon's question and Tristan885's answer on the ZDOOM forum, without them I wouldn't have been able find Alex Kimov's github repo and figure out how to work with that plugin. https://forum.zdoom.org/viewtopic.php?f=12&t=68569
 
 ## How to view Alien Shooter 2 VID files:
+https://youtu.be/v4iZ4kpjBno
 
 Works with AS2, ZS2, Alien Shooter 2: Reloaded, Alien Shooter: Revisited, Alien Shooter 2: Conscription, Alien Shooter: TD
 
@@ -115,8 +116,8 @@ P - start animation
 [ - close
 Arrows - step animation
 T - zoom in
-- zoom in
-+ zoom out
+- zoom out
++ zoom in
 Enter - Image Control (doesn't seem to work)
 Backspace/Ctrl + H - previous sprite(vid file)
 Space - next sprite
