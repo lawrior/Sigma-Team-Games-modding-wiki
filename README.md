@@ -95,7 +95,7 @@ VidViewer starter.bat is provided by lawrior.***
 ## Steps:
 * Download the required files. 
 * If you choose 908 mb VidViewer.exe, right click on it, click Properties, go to the Compatibility tab and Under Settings click on Reduced color mode and set it to 8-bit, click Apply. This will prevent the sprites showing up in a weird color.
-* Copy these files into the same folder as the vid files, because in the batch file (a k a  VidVIewer start.bat) the route is set that way.
+* Copy these files into the same folder as the vid files, because in the batch file (a k a  VidViewer starter.bat) the route is set that way.
 * There are two methods of launching the vidviewer:
 1. Double click on the VidViewer starter.bat. Now you can type in the name of the vid file, I usually start with 233. Only the numbers, not the extension. ```233 - good | 233.vid - wrong```
 2. press Shift and right click in the vidVieWer folder. Click Open PowerShell window here. Type for example:  ```Start-Process VidViewer.exe 290.vid ```
