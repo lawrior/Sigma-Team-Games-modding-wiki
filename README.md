@@ -48,6 +48,8 @@ https://drive.google.com/file/d/1yLee59v0Rk2qBPS2FnsQKVJfK4Yz3FBo/view
 
 
 ## How to view Alien Shooter 1 VID files:
+
+
 ### Required files:
 * **Noesis** by Rich Whitehouse: https://richwhitehouse.com/index.php?content=inc_projects.php&filemirror=noesisv4463.zip
 * **fmt_sl_vid.py** plugin by Alex Kimov: https://github.com/AlexKimov/locoland-formats
@@ -67,12 +69,21 @@ You can export the sprites as single images by right clicking on the vid file na
 
 ### Big thank you to Apeirogon's question and Tristan885's answer on the ZDOOM forum, without them I wouldn't have been able find Alex Kimov's github repo and figure out how to work with that plugin. https://forum.zdoom.org/viewtopic.php?f=12&t=68569
 
-## How to view Alien Shooter 1 VID files:
+## How to view Alien Shooter 2 VID files:
+
+Works with AS2, ZS2, Alien Shooter 2: Reloaded, Alien Shooter: Revisited, Alien Shooter 2: Conscription, Alien Shooter: TD
+
 ### Required files:
 * VidViewer starter.bat
 * Pseudo3D.fx
 * Pseudo3Dnew.fx
 * VidViewer.exe.
+
+***Pseudo3D.fx, Pseudo3Dnew.fx comes with every game, can be found in Vid folder.
+VidViewer.exe is provided by Alex Greenberg.
+VidViewer starter.bat is provided by lawrior.
+
+
 
 ***You can use either 908 MB vidviewer or the 2020MB vidviewer.***
 ***However, 908 Mb VidViewer has some extra capability as you can export the sprites from the vid file as single images, you can watch the mesh etc.***
