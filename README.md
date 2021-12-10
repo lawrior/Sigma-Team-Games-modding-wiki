@@ -67,7 +67,43 @@ You can export the sprites as single images by right clicking on the vid file na
 
 ### Big thank you to Apeirogon's question and Tristan885's answer on the ZDOOM forum, without them I wouldn't have been able find Alex Kimov's github repo and figure out how to work with that plugin. https://forum.zdoom.org/viewtopic.php?f=12&t=68569
 
+## How to view Alien Shooter 1 VID files:
+### Required files:
+* VidViewer starter.bat
+* Pseudo3D.fx
+* Pseudo3Dnew.fx
+* VidViewer.exe.
+
+***You can use either 908 MB vidviewer or the 2020MB vidviewer.***
+***However, 908 Mb VidViewer has some extra capability as you can export the sprites from the vid file as single images, you can watch the mesh etc.***
+***Expect some crashes when vidviewer cant load the vid files.***
+
+* If you choose 908 mb VidViewer.exe, right click on it, click Properties, go to the Compatibility tab and Under Settings click on Reduced color mode and set it to 8-bit, click Apply. This will prevent the sprites showing up in a weird color.
+* Copy these files into the same folder as the vid files, because in the batch file (a k a  VidVIewer start.bat) the route is set that way.
+
+* There are two methods of launching the vidviewer:
+** 1. Double click on the VidViewer starter.bat. Now you can type in the name of the vid file, I usually start with 233. Only the numbers, not the extension. ```233 - good | 233.vid - wrong```
+** 2. press Shift and right click in the vidVieWer folder. Click Open PowerShell window here. Type for example:  ```Start-Process VidViewer.exe 290.vid ```
 
 
+### Basic functionality, and shortcuts:
+
+* By pressing key P you can stop and start the sprite animation.
+* With the arrow keys you can step the animation.
+* By pressing space you move to the next vid file
+* By pressing backspace you move to the previous file
+* For exporting sprites as bmp files, go to "file" tab and click "Export all cadrs in pictures".
+
+ ```
+P - start animation
+[ - close
+Arrows - step animation
+T - zoom in
+- zoom in
++ zoom out
+Enter - Image Control (doesn't seem to work)
+Backspace/Ctrl + H - previous sprite(vid file)
+Space - next sprite
+ ```
 
 
