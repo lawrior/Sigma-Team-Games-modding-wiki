@@ -81,20 +81,20 @@ Works with AS2, ZS2, Alien Shooter 2: Reloaded, Alien Shooter: Revisited, Alien 
 
 ***Pseudo3D.fx, Pseudo3Dnew.fx comes with every game, can be found in Vid folder.
 VidViewer.exe is provided by Alex Greenberg.
-VidViewer starter.bat is provided by lawrior.
-
+VidViewer starter.bat is provided by lawrior.***
 
 
 ***You can use either 908 MB vidviewer or the 2020MB vidviewer.***
 ***However, 908 Mb VidViewer has some extra capability as you can export the sprites from the vid file as single images, you can watch the mesh etc.***
 ***Expect some crashes when vidviewer cant load the vid files.***
 
+## Steps:
+* Download the files. VidViewer 908MB: https://drive.google.com/file/d/1GtZnMwKeZphNtOOyPlQ4V73h-oL3fBsw/view
 * If you choose 908 mb VidViewer.exe, right click on it, click Properties, go to the Compatibility tab and Under Settings click on Reduced color mode and set it to 8-bit, click Apply. This will prevent the sprites showing up in a weird color.
 * Copy these files into the same folder as the vid files, because in the batch file (a k a  VidVIewer start.bat) the route is set that way.
-
 * There are two methods of launching the vidviewer:
-** 1. Double click on the VidViewer starter.bat. Now you can type in the name of the vid file, I usually start with 233. Only the numbers, not the extension. ```233 - good | 233.vid - wrong```
-** 2. press Shift and right click in the vidVieWer folder. Click Open PowerShell window here. Type for example:  ```Start-Process VidViewer.exe 290.vid ```
+1. Double click on the VidViewer starter.bat. Now you can type in the name of the vid file, I usually start with 233. Only the numbers, not the extension. ```233 - good | 233.vid - wrong```
+2. press Shift and right click in the vidVieWer folder. Click Open PowerShell window here. Type for example:  ```Start-Process VidViewer.exe 290.vid ```
 
 
 ### Basic functionality, and shortcuts:
@@ -105,6 +105,7 @@ VidViewer starter.bat is provided by lawrior.
 * By pressing backspace you move to the previous file
 * For exporting sprites as bmp files, go to "file" tab and click "Export all cadrs in pictures".
 
+ English keyboard:
  ```
 P - start animation
 [ - close
