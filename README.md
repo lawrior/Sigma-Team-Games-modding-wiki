@@ -20,6 +20,32 @@ https://drive.google.com/file/d/1BgqFPOjmphZoDnx-bGw3j8gPevSLDnmK/view
 * AS1 Revisited tools:
 https://drive.google.com/file/d/1yLee59v0Rk2qBPS2FnsQKVJfK4Yz3FBo/view
 
+#### Contents:
+```
+── AS2 CONSCRIPTION
+   ├── 3dsmax (export graphics)
+   │   └── 3ds Max 2011 (32bit)
+   │       ├── empty - object to VID (max2011).max
+   │       ├── macroscripts
+   │       │   ├── wit16dir.mcr
+   │       │   ├── wit32dir.mcr
+   │       │   └── wit8dir.mcr
+   │       └── plugins
+   │           ├── vid.bmi
+   │           └── vid.txt
+   ├── Makeres
+   │   ├── !MAKERES.BAT
+   │   ├── additional.INI
+   │   ├── const.INI
+   │   ├── ini2res.exe
+   │   ├── OBJECTS.INI
+   │   ├── oini2txt.exe
+   │   └── WAV.INi
+   ├── MapEdit.exe
+   └── Vid
+       └── VidViewer.exe
+ ```
+
 
 ## How to view Alien Shooter 1 VID files:
 ### Required files:
